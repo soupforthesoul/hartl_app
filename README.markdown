@@ -1,3 +1,6 @@
+This is an app to go through Mike Hartl's book
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
