@@ -11,6 +11,7 @@ gem 'rails', '3.2.11'
 group :development do
 	gem 'rspec-rails'
 	gem 'sqlite3'
+	
 end
 
 group :production do
